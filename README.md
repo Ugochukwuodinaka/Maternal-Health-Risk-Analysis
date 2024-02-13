@@ -1,5 +1,5 @@
 # Maternal Health Risk Analysis
-![](Maternal_Health_Risk_image.jpg)
+![](images/Maternal_Health_Risk_image.jpg)
 
 ## Project Overview
 ### Introduction:
@@ -49,32 +49,32 @@ Here's is a detailed information of the columns we have in this dataset to aid a
 
 ### Data Cleaning, Transformation and Loading using the Power Query Editor:
 1. I transformed all column data types to the right data types.
-2. I added a new column __"Age Band"__ and filled it up with the data extraced from the __"Age"__ column which was grouped into _"Twenties, Thirties, Forties, Fifties, and Sixties"_ using the "If function".
+2. I added a new column __"Age Band"__ and filled it up with the data extraced from the __"Age"__ column which was grouped into _"Under Twenties, Twenties, Thirties, Forties, Fifties, and Sixties"_ using the "If function".
 3. Made sure that all columns have no data error or null values, and that all coumns have the __100%__ Valid Mark.
 
 **Raw Data**
-- Below a screenshot of a part of the raw data in .csv file format. You can download the dataset [here](Maternal%20Health%20Risk%20Data%20Set.csv).
+- Below a screenshot of a part of the raw data in .csv file format. You can download the dataset [here](images/Maternal%20Health%20Risk%20Data%20Set.csv).
 
-![](Raw_Data_Sceenshot_image.png)
+![](images/Raw_Data_Sceenshot_image.png)
 
 **Final Power Query Editor screenshot**
 - Below is a screenshot of a part of the cleaned data in power query editor. You can access the full Power BI project document [here](https://github.com/Ugochukwuodinaka/Maternal-Health-Risk-Analysis/blob/main/MATERNAL%20HEALTH%20RISK%20ANALYSIS.pbix).
 
-![](Power_Query_Screenshot_image.png)
+![](images/Power_Query_Screenshot_image.png)
 
 ## Data Modelling
 No data modelling was required since we need just a table for the analysis.
 
 ## Visualization in Power BI:
 #### Report Image
-![](Maternal_Health_Risk_Analysis_Dashboard.jpg)
+![](images/Maternal_Health_Risk_Analysis_Dashboard.jpg)
 
 ### Project Analysis:
 From the analysis, i made the Key Performance findings below:
 - The Total Number of Women used for this analysis is __1,014__.
 - The Average Age of Women in this analysis is __30__.
-- The Average Body Temperature of Women in this analysis is __99__.
-- The Average Heart Rate of Women in this analysis is __74__.
+- The Average Body Temperature of Women in this analysis is __99(F)__.
+- The Average Heart Rate of Women in this analysis is __74(bpm)__.
 - The Average Systolic Blood Pressure of Women in this analysis is __113(mmHg)__.
 - The Average Diastolic Blood Pressure of Women in this analysis is __76(mmHg)__.
 - The Average Blood Sugar of Women in this analysis is __9(mmol/L)__.
