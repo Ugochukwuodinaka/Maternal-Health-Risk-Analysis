@@ -98,3 +98,19 @@ From the analysis, i made the Key Performance findings below:
 
 - __Implications for Maternal Healthcare:__ The distribution of high-risk levels across different age ranges underscores the importance of tailored and age-specific approaches to maternal healthcare. Healthcare providers should consider age as a crucial factor in assessing maternal health risks, providing prenatal care, and implementing preventive measures to mitigate potential complications.
 - __Need for Comprehensive Risk Assessment:__ While age is an important determinant of maternal health risks, it's essential to recognize that other factors such as pre-existing medical conditions, socio-economic status, lifestyle factors, and access to healthcare also play significant roles.
+
+
+- <img src="images/Avg_BodyTemp_HeartRate_%26_BS_By_AgeRange_image.jpg" width="250">
+- **Average Body Temperature, Heart Rate, and Blood Sugar By Age Range:**
+- In this analysis, the of average body temperature, heart rate, and blood sugar by age range provides valuable insights into the variations in health parameters across different age groups.
+- __Body Temperature:__ The data reveals slight variations in average body temperature across age groups. Younger age groups, such as those under 20 and in their twenties, tend to have slightly higher average body temperatures compared to older age groups. This is consistent with physiological norms, as body temperature generally decreases with age due to changes in metabolism and thermoregulation. However, the differences in average body temperature among age groups are relatively small, with all age groups falling within the normal range of body temperature (typically around 98.6°F or 37°C). This suggests that age may not be a significant determinant of variations in body temperature within the population studied.
+- __Heart Rate:__ There is noticeable variability in average heart rate across different age groups. Younger individuals, particularly those in their twenties and forties, tend to have higher average heart rates compared to older age groups. This could be attributed to factors such as higher levels of physical activity, increased metabolic rate, and overall cardiovascular health. Conversely, older age groups, such as those in their fifties and sixties, exhibit slightly lower average heart rates. This could be indicative of age-related changes in heart function, decreased cardiac efficiency, and changes in autonomic nervous system regulation.
+- __Blood Sugar:__ The data reveals significant variations in average blood sugar levels across different age groups. Older age groups, particularly those in their forties, fifties, and sixties, tend to have higher average blood sugar levels compared to younger age groups. This is consistent with the increased prevalence of insulin resistance, impaired glucose tolerance, and diabetes mellitus with advancing age. Younger age groups, such as those under 20 and in their twenties, demonstrate lower average blood sugar levels. This could be attributed to factors such as healthier dietary habits, higher physical activity levels, and better glucose metabolism in younger individuals.
+- In summary, the analysis highlights the variations in health parameters across different age groups, emphasizing the importance of age-specific health monitoring and interventions in promoting optimal health and wellness. 
+
+- <img src="images/Avg_BodyTemp_HeartRate_%26_BS_By_AgeRange_image.jpg" width="250">
+- **Average Body Temperature, Heart Rate, and Blood Sugar By Age Range:**
+- In this analysis
+
+
+
