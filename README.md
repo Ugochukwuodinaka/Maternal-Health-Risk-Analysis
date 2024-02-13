@@ -100,7 +100,7 @@ From the analysis, i made the Key Performance findings below:
 - __Need for Comprehensive Risk Assessment:__ While age is an important determinant of maternal health risks, it's essential to recognize that other factors such as pre-existing medical conditions, socio-economic status, lifestyle factors, and access to healthcare also play significant roles.
 
 
-- <img src="images/Avg_BodyTemp_HeartRate_%26_BS_By_AgeRange_image.jpg" width="250">
+- <img src="images/Avg_BodyTemp_HeartRate_%26_BS_By_AgeRange_image.jpg" width="350">
 - **Average Body Temperature, Heart Rate, and Blood Sugar By Age Range:**
 - In this analysis, the of average body temperature, heart rate, and blood sugar by age range provides valuable insights into the variations in health parameters across different age groups.
 - __Body Temperature:__ The data reveals slight variations in average body temperature across age groups. Younger age groups, such as those under 20 and in their twenties, tend to have slightly higher average body temperatures compared to older age groups. This is consistent with physiological norms, as body temperature generally decreases with age due to changes in metabolism and thermoregulation. However, the differences in average body temperature among age groups are relatively small, with all age groups falling within the normal range of body temperature (typically around 98.6°F or 37°C). This suggests that age may not be a significant determinant of variations in body temperature within the population studied.
