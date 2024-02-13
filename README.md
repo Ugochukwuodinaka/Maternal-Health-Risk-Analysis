@@ -89,7 +89,7 @@ From the analysis, i made the Key Performance findings below:
 - __Need for Targeted Interventions:__ The disparities in risk distribution highlight the heterogeneity of maternal health risks within the population under study. Factors such as age, pre-existing health conditions, socio-economic status, and access to healthcare services may contribute to variations in risk levels among women. Targeted interventions and public health initiatives are needed to address these disparities and ensure equitable access to maternal healthcare resources and support.
 
 
-- <img src="images/High_Risk_Count_By_AgeRange_image.jpg" width="250">
+- <img src="images/High_Risk_Count_By_AgeRange_image.jpg" width="300">
 - **Count of Women On High Risk Level By Age Range:**
 - In this analysis, Women in their thirties comprise the largest group among those classified as high risk, with 67 individuals. This age range is followed closely by women in their forties, fifties, and twenties, with 61, 49, and 46 women, respectively. Additionally, there are 39 women under the age of 20 and only 10 women in their sixties classified as high risk.
 - __Correlation Between Age and Maternal Health Risks:__ The data suggests a notable correlation between age and maternal health risks. Women in their thirties and forties, commonly considered as advanced maternal age, show higher counts of individuals classified as high risk. This aligns with existing literature indicating that advanced maternal age is associated with increased risk of pregnancy complications and adverse maternal outcomes.
