@@ -71,6 +71,15 @@ No data modelling was required since we need just a table for the analysis.
 
 ### Project Analysis:
 From the analysis, i made the Key Performance findings below:
-- The Total Revenue from all the Shopping Malls is __₺251,505,794M__.
-- The Number of Shopping Malls for this analysis is __10__.
+- The Total Number of Women used for this analysis is __1,014__.
+- The Average Age of Women in this analysis is __30__.
+- The Average Body Temperature of Women in this analysis is __99__.
+- The Average Heart Rate of Women in this analysis is __74__.
+- The Average Systolic Blood Pressure of Women in this analysis is __113mmHg__.
+- The Average Diastolic Blood Pressure of Women in this analysis is __76mmHg__.
+- The Average Blood Sugar of Women in this analysis is __9mmol/L__.
+
+- <img src="images/Total_Revenue_By_Category.jpg" width="250">
+- **The Total Revenue By Product Category:**
+- In this analysis,
 
