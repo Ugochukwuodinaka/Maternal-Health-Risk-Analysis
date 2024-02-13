@@ -109,7 +109,7 @@ From the analysis, i made the Key Performance findings below:
 - In summary, the analysis highlights the variations in health parameters across different age groups, emphasizing the importance of age-specific health monitoring and interventions in promoting optimal health and wellness. 
 
 - <img src="images/Avg_SBP_%26_Avg_DBP_By_Age_image.jpg" width="450">
-- **Average Systolic Blood Pressure and Average Diastolic Blood PressureBody By Age:**
+- **Average Systolic Blood Pressure and Diastolic Blood Pressure By Age:**
 - Let's explore the variations of systolic blood pressure (SystolicBP) and diastolic blood pressure (DiastolicBP) across different ages in this analysis. 
 - __Systolic Blood Pressure (SystolicBP):__ Systolic blood pressure tends to increase with age, peaking around middle age before potentially decreasing in older age groups.
 In the provided data, we observe a gradual increase in systolic blood pressure from ages 10 to 50, with occasional fluctuations. Notably, there is a significant increase in systolic blood pressure starting from the late twenties to forties, with values exceeding 120 mmHg in many cases. After age 50, there appears to be some variability in systolic blood pressure, with values ranging from around 110 to 140 mmHg, reflecting potential differences in health status and lifestyle factors among older individuals.
