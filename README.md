@@ -64,7 +64,7 @@ Here's is a detailed information of the columns we have in this dataset to aid a
 3. Made sure that all columns have no data error or null values, and that all coumns have the __100%__ Valid Mark.
 
 **Raw Data**
-- Below a screenshot of a part of the raw data in .csv file format. You can download the dataset [here](images/Maternal%20Health%20Risk%20Data%20Set.csv).
+- Below a screenshot of a part of the raw data in .csv file format. You can download the dataset [here](Maternal%20Health%20Risk%20Data%20Set.csv).
 
 ![](images/Raw_Data_Sceenshot_image.png)
 
