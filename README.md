@@ -14,7 +14,7 @@ Maternal health is a critical component of public health, directly impacting the
 
 ### Expected Outcomes:
 - __Risk distribution profile:__ Obtain insights into the prevalence of maternal health risks by determining the total number of women in each risk category.
-- __Age-risk correlation:__ Identify correlations between age and maternal health risks by examining the distribution of risk levels across different age ranges.
+- __Age-risk correlation:__ Identify correlations between age and maternal health risks by examining the distribution of high risk levels across different age ranges.
 - __Health parameter variations:__ Understand how health parameters such as SBP, DBP, body temperature, heart rate, and blood sugar vary across risk levels and age groups.
 - __Age-related trends:__ Determine average values of health parameters for each age range, revealing age-related patterns in maternal health indicators.
 
@@ -87,3 +87,14 @@ From the analysis, i made the Key Performance findings below:
   
 - __Implications for Maternal Healthcare:__ The distribution of women across different risk categories underscores the importance of risk assessment and personalized care in maternal healthcare settings. By accurately identifying women at varying levels of risk, healthcare providers can tailor interventions, monitoring, and support to meet the specific needs of each group. This approach can help mitigate potential risks, improve maternal health outcomes, and enhance the overall quality of care provided to pregnant and postpartum women.
 - __Need for Targeted Interventions:__ The disparities in risk distribution highlight the heterogeneity of maternal health risks within the population under study. Factors such as age, pre-existing health conditions, socio-economic status, and access to healthcare services may contribute to variations in risk levels among women. Targeted interventions and public health initiatives are needed to address these disparities and ensure equitable access to maternal healthcare resources and support.
+
+
+- <img src="images/High_Risk_Count_By_AgeRange_image.jpg" width="250">
+- **Count of Women On High Risk Level By Age Range:**
+- In this analysis, Women in their thirties comprise the largest group among those classified as high risk, with 67 individuals. This age range is followed closely by women in their forties, fifties, and twenties, with 61, 49, and 46 women, respectively. Additionally, there are 39 women under the age of 20 and only 10 women in their sixties classified as high risk.
+- __Correlation Between Age and Maternal Health Risks:__ The data suggests a notable correlation between age and maternal health risks. Women in their thirties and forties, commonly considered as advanced maternal age, show higher counts of individuals classified as high risk. This aligns with existing literature indicating that advanced maternal age is associated with increased risk of pregnancy complications and adverse maternal outcomes.
+- Conversely, women in their twenties and under the age of 20 also show a considerable number of individuals classified as high risk. This may reflect factors such as socio-economic disparities, inadequate prenatal care, and underlying health conditions prevalent in younger age groups that contribute to elevated maternal health risks.
+- The lower count of women in their sixties classified as high risk could be attributed to factors such as menopause and decreased fertility rates, resulting in fewer pregnancies in this age group. However, it's essential to note that maternal health risks can still exist in older age groups due to age-related health issues and complications during pregnancy.
+
+- __Implications for Maternal Healthcare:__ The distribution of high-risk levels across different age ranges underscores the importance of tailored and age-specific approaches to maternal healthcare. Healthcare providers should consider age as a crucial factor in assessing maternal health risks, providing prenatal care, and implementing preventive measures to mitigate potential complications.
+- __Need for Comprehensive Risk Assessment:__ While age is an important determinant of maternal health risks, it's essential to recognize that other factors such as pre-existing medical conditions, socio-economic status, lifestyle factors, and access to healthcare also play significant roles.
