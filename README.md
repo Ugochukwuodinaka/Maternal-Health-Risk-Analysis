@@ -110,18 +110,12 @@ From the analysis, i made the Key Performance findings below:
 - __Implications for Maternal Healthcare:__ The distribution of high-risk levels across different age ranges underscores the importance of tailored and age-specific approaches to maternal healthcare. Healthcare providers should consider age as a crucial factor in assessing maternal health risks, providing prenatal care, and implementing preventive measures to mitigate potential complications.
 - __Need for Comprehensive Risk Assessment:__ While age is an important determinant of maternal health risks, it's essential to recognize that other factors such as pre-existing medical conditions, socio-economic status, lifestyle factors, and access to healthcare also play significant roles.
 
-- <img src="images/RiskLevel_SBP_%26_DBP_By_AgeRange_image.jpg" width="300">
+- <img src="images/High_RiskLevel_SBP_%26_DBP_By_AgeRange_image.jpg" width="300">
 - **High Risk Level, SBP & DBP By Age Range:**
-- In this analysis,
-
-
-
-
-
-
-
-
-
+- In this analysis, we dive deeper to gain insights into the distribution of high-risk levels, average systolic blood pressure (SBP), and average diastolic blood pressure (DBP) across different age ranges among women. Let's analyze the correlations between age and maternal health risks based on this information:
+- __Distribution of High-Risk Levels:__ The data reveals a varying distribution of high-risk levels across different age groups among women. Women in their thirties have the highest number of high-risk cases, with 67 individuals identified as high risk, followed by women in their forties, fifties, twenties, under 20, and lastly, women in their sixties. This distribution suggests that certain age groups, particularly women in their thirties and forties, may be more susceptible to maternal health risks compared to other age groups.
+- __Average Systolic Blood Pressure (SBP) and Diastolic Blood Pressure (DBP):__ There is a noticeable trend of increasing average SBP and DBP with advancing age among women. Women in their fifties exhibit the highest average SBP and DBP among the age groups, followed closely by women in their forties. Younger age groups, such as women in their twenties and under 20, demonstrate lower average SBP and DBP values compared to older age groups. The variations in average SBP and DBP levels across different age groups suggest age-related changes in cardiovascular health and potential implications for maternal health.
+- __Correlation Between Age and Maternal Health Risks:__ The data indicates a potential correlation between age and maternal health risks, with older women demonstrating higher average SBP and DBP values and a higher prevalence of high-risk cases. Elevated blood pressure levels, particularly among women in their forties and fifties, may indicate increased risk for hypertensive disorders of pregnancy, such as preeclampsia and gestational hypertension. Younger age groups, such as women in their twenties and under 20, exhibit lower average blood pressure levels but still demonstrate a considerable number of high-risk cases, suggesting the presence of other contributing factors to maternal health risks in these age groups.
 
 
   
