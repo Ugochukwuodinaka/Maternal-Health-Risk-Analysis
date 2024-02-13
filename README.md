@@ -5,14 +5,14 @@
 ### Introduction:
 Maternal health is a critical component of public health, directly impacting the well-being of mothers and their newborns. Despite significant advancements in medical technology and healthcare infrastructure, maternal mortality and morbidity rates remain high in many parts of the world. This project aims to conduct a comprehensive analysis of maternal health risks to identify key factors contributing to adverse maternal outcomes.
 
-## Objectives:
+### Objectives:
 - __Assess risk distribution:__ Evaluate the distribution of maternal health risks among women by analyzing the total number of women categorized by risk levels.
 - __Age-specific risk analysis:__ Investigate the relationship between age and maternal health risks by examining the number of risk levels across different age ranges.
 - __Health parameters by risk level and age:__ Explore the variations in health parameters such as systolic blood pressure (SBP), diastolic blood pressure (DBP), body temperature (Temp), heart rate (HR), and blood sugar (BS) across different risk levels and age groups.
 - __Average health parameters by age:__ Calculate the average SBP, DBP, body temperature, and heart rate for each age range to understand age-related trends in maternal health.
 
 
-## Expected Outcomes:
+### Expected Outcomes:
 - __Risk distribution profile:__ Obtain insights into the prevalence of maternal health risks by determining the total number of women in each risk category.
 - __Age-risk correlation:__ Identify correlations between age and maternal health risks by examining the distribution of risk levels across different age ranges.
 - __Health parameter variations:__ Understand how health parameters such as SBP, DBP, body temperature, heart rate, and blood sugar vary across risk levels and age groups.
