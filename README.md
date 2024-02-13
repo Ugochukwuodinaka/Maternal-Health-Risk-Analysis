@@ -73,11 +73,11 @@ No data modelling was required since we need just a table for the analysis.
 From the analysis, i made the Key Performance findings below:
 - The Total Number of Women used for this analysis is __1,014__.
 - The Average Age of Women in this analysis is __30__.
-- The Average Body Temperature of Women in this analysis is __99(F)__.
-- The Average Heart Rate of Women in this analysis is __74(bpm)__.
-- The Average Systolic Blood Pressure of Women in this analysis is __113(mmHg)__.
-- The Average Diastolic Blood Pressure of Women in this analysis is __76(mmHg)__.
-- The Average Blood Sugar of Women in this analysis is __9(mmol/L)__.
+- The Average Body Temperature of Women in this analysis is __99 F__.
+- The Average Heart Rate of Women in this analysis is __74 bpm__.
+- The Average Systolic Blood Pressure of Women in this analysis is __113 mmHg__.
+- The Average Diastolic Blood Pressure of Women in this analysis is __76 mmHg__.
+- The Average Blood Sugar of Women in this analysis is __9 mmol/L__.
 
 - <img src="images/Total_Revenue_By_Category.jpg" width="250">
 - **The Total Revenue By Product Category:**
