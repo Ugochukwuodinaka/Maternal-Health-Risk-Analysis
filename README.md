@@ -108,17 +108,17 @@ From the analysis, i made the Key Performance findings below:
 - __Blood Sugar:__ The data reveals significant variations in average blood sugar levels across different age groups. Older age groups, particularly those in their forties, fifties, and sixties, tend to have higher average blood sugar levels compared to younger age groups. This is consistent with the increased prevalence of insulin resistance, impaired glucose tolerance, and diabetes mellitus with advancing age. Younger age groups, such as those under 20 and in their twenties, demonstrate lower average blood sugar levels. This could be attributed to factors such as healthier dietary habits, higher physical activity levels, and better glucose metabolism in younger individuals.
 - In summary, the analysis highlights the variations in health parameters across different age groups, emphasizing the importance of age-specific health monitoring and interventions in promoting optimal health and wellness. 
 
-- <img src="images/Avg_BodyTemp_HeartRate_%26_BS_By_AgeRange_image.jpg" width="250">
-- **Average Body Temperature, Heart Rate, and Blood Sugar By Age Range:**
-- Let's explore the variations of systolic blood pressure (SystolicBP) and diastolic blood pressure (DiastolicBP) across different ages. 
+- <img src="images/Avg_SBP_%26_Avg_DBP_By_Age_image.jpg" width="450">
+- **Average Systolic Blood Pressure and Average Diastolic Blood PressureBody By Age:**
+- Let's explore the variations of systolic blood pressure (SystolicBP) and diastolic blood pressure (DiastolicBP) across different ages in this analysis. 
 - __Systolic Blood Pressure (SystolicBP):__ Systolic blood pressure tends to increase with age, peaking around middle age before potentially decreasing in older age groups.
 In the provided data, we observe a gradual increase in systolic blood pressure from ages 10 to 50, with occasional fluctuations. Notably, there is a significant increase in systolic blood pressure starting from the late twenties to forties, with values exceeding 120 mmHg in many cases. After age 50, there appears to be some variability in systolic blood pressure, with values ranging from around 110 to 140 mmHg, reflecting potential differences in health status and lifestyle factors among older individuals.
 - __Diastolic Blood Pressure (DiastolicBP):__ Diastolic blood pressure also tends to increase with age, although the trend is less pronounced compared to systolic blood pressure.
 In the provided data, we observe a general trend of increasing diastolic blood pressure with age, particularly from ages 10 to 50. Similar to systolic blood pressure, diastolic blood pressure values exceed 80 mmHg starting from the late twenties to forties, indicating potential hypertension risk among these age groups. After age 50, diastolic blood pressure values remain relatively stable, with occasional fluctuations observed among older age groups.
 - Overall, the data highlights age-related variations in systolic and diastolic blood pressure, with a general trend of increasing values observed from younger to middle-aged individuals. These findings underscore the importance of age-specific monitoring and management of blood pressure to prevent hypertension-related complications and promote cardiovascular health across the lifespan.
 
-- <img src="images/Avg_BodyTemp_HeartRate_%26_BS_By_AgeRange_image.jpg" width="250">
-- **Average Body Temperature, Heart Rate, and Blood Sugar By Age Range:**
+- <img src="images/Avg_BodyTemp_By_Age_image.jpg" width="450">
+- **Average Body Temperature By Age:**
 - Let's explore the
 
 
