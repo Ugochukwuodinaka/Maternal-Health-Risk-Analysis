@@ -126,6 +126,13 @@ Notably, there is a wide range of body temperature values observed, ranging from
 - Overall, the data highlights the variations in body temperature across different age groups. While fluctuations in body temperature are normal, it's essential to monitor temperature readings closely, especially in the context of health assessments and medical evaluations.
 
 
+- <img src="images/Avg_HeartRate_By_Age_image.jpg" width="450">
+- **Average Heart Rate By Age:**
+- In this analysis, we are looking into the data on heart rate across different age groups. Let's analyze the variations of heart rate across these age groups:
+- __Variations in Heart Rate:__ Heart rate, measured in beats per minute (bpm), is influenced by various factors such as age, fitness level, activity level, and overall health status.
+In this analysis, we observe fluctuations in heart rate across different age groups, with some ages showing higher or lower average rates compared to others. The average heart rate ranges from approximately 66 bpm to 90 bpm across the different age groups. Younger age groups, such as those in their teens and twenties, generally exhibit lower average heart rates, typically ranging from around 66 bpm to 80 bpm. In contrast, some older age groups, particularly those in their forties, fifties, and sixties, show slightly higher average heart rates, with values exceeding 80 bpm in some cases. It's important to note that heart rate can vary widely among individuals, and factors such as fitness level, medication use, and underlying health conditions can influence heart rate readings.
+- In conclusion, the data highlights the variations in heart rate across different age groups. While fluctuations in heart rate are normal and can be influenced by various factors, monitoring heart rate trends over time can provide valuable insights into cardiovascular health and overall well-being. 
+
 
 
 
