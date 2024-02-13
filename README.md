@@ -110,7 +110,19 @@ From the analysis, i made the Key Performance findings below:
 
 - <img src="images/Avg_BodyTemp_HeartRate_%26_BS_By_AgeRange_image.jpg" width="250">
 - **Average Body Temperature, Heart Rate, and Blood Sugar By Age Range:**
-- In this analysis
+- Let's explore the variations of systolic blood pressure (SystolicBP) and diastolic blood pressure (DiastolicBP) across different ages. 
+- __Systolic Blood Pressure (SystolicBP):__ Systolic blood pressure tends to increase with age, peaking around middle age before potentially decreasing in older age groups.
+In the provided data, we observe a gradual increase in systolic blood pressure from ages 10 to 50, with occasional fluctuations. Notably, there is a significant increase in systolic blood pressure starting from the late twenties to forties, with values exceeding 120 mmHg in many cases. After age 50, there appears to be some variability in systolic blood pressure, with values ranging from around 110 to 140 mmHg, reflecting potential differences in health status and lifestyle factors among older individuals.
+- __Diastolic Blood Pressure (DiastolicBP):__ Diastolic blood pressure also tends to increase with age, although the trend is less pronounced compared to systolic blood pressure.
+In the provided data, we observe a general trend of increasing diastolic blood pressure with age, particularly from ages 10 to 50. Similar to systolic blood pressure, diastolic blood pressure values exceed 80 mmHg starting from the late twenties to forties, indicating potential hypertension risk among these age groups. After age 50, diastolic blood pressure values remain relatively stable, with occasional fluctuations observed among older age groups.
+- Overall, the data highlights age-related variations in systolic and diastolic blood pressure, with a general trend of increasing values observed from younger to middle-aged individuals. These findings underscore the importance of age-specific monitoring and management of blood pressure to prevent hypertension-related complications and promote cardiovascular health across the lifespan.
+
+- <img src="images/Avg_BodyTemp_HeartRate_%26_BS_By_AgeRange_image.jpg" width="250">
+- **Average Body Temperature, Heart Rate, and Blood Sugar By Age Range:**
+- Let's explore the
+
+
+
 
 
 
