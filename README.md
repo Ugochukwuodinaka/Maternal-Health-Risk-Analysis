@@ -1,6 +1,17 @@
 # Maternal Health Risk Analysis
 ![](images/Maternal_Health_Risk_image.jpg)
 
+
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Dataset Overview](#dataset-overview)
+- [Tools Used](#tools-used)
+- [Visualization in Power BI](#visualization-in-power-bi)
+- [Project Analysis](#project-analysis)
+- [Visuals in Power BI Report](#visuals-in-power-bi-report)
+- [Recommendations On How To Improve Maternal Health](#recommendations-on-how-to-improve-maternal-health)
+
+
 ## Project Overview
 ### Introduction:
 Maternal health is a critical component of public health, directly impacting the well-being of mothers and their newborns. Despite significant advancements in medical technology and healthcare infrastructure, maternal mortality and morbidity rates remain high in many parts of the world. This project aims to conduct a comprehensive analysis of maternal health risks to identify key factors contributing to adverse maternal outcomes.
@@ -133,12 +144,18 @@ Notably, there is a wide range of body temperature values observed, ranging from
 In this analysis, we observe fluctuations in heart rate across different age groups, with some ages showing higher or lower average rates compared to others. The average heart rate ranges from approximately 66 bpm to 90 bpm across the different age groups. Younger age groups, such as those in their teens and twenties, generally exhibit lower average heart rates, typically ranging from around 66 bpm to 80 bpm. In contrast, some older age groups, particularly those in their forties, fifties, and sixties, show slightly higher average heart rates, with values exceeding 80 bpm in some cases. It's important to note that heart rate can vary widely among individuals, and factors such as fitness level, medication use, and underlying health conditions can influence heart rate readings.
 - In conclusion, the data highlights the variations in heart rate across different age groups. While fluctuations in heart rate are normal and can be influenced by various factors, monitoring heart rate trends over time can provide valuable insights into cardiovascular health and overall well-being. 
 
+## Visuals in Power BI Report:
+You can view and interact with this dashboard report on Maternal Health Risk Analysis [here](https://app.powerbi.com/view?r=eyJrIjoiZmE1YmVhNjUtNjgzOC00OTBkLTlmYTQtZmUxODgzNzJjNGYwIiwidCI6IjdlYzI5NjU5LTNjZjItNGYzZi1hYmIzLWE3MjJlZGY3ZmYyZCJ9).
 
-
-
-
-
-
+## Recommendations On How To Improve Maternal Health 
+- __Increase Access to Prenatal Care:__ Policy makers in the health sctor needs to ensure that all pregnant women have access to regular prenatal check-ups and screenings to monitor their health and identify any potential complications early.
+- __Promote Maternal Health Education:__  They also need to provide comprehensive education to pregnant women and their families about healthy pregnancy practices, including nutrition, exercise, and the importance of prenatal vitamins.
+- __Enhance Emergency Obstetric Care:__ They nned to improve access to emergency obstetric care facilities and skilled birth attendants to manage complications during childbirth and reduce maternal mortality rates.
+- __Strengthen Postnatal Support:__ The healthcare administrators should make available postnatal care services to mothers and newborns to address immediate postpartum needs, including breastfeeding support, newborn care, and monitoring for postpartum complications.
+- __Address Socioeconomic Determinants:__ They nned to address social and economic factors that impact maternal health outcomes, such as poverty, lack of education, and gender inequality, through targeted interventions and social support programs.
+- __Invest in Maternal Nutrition:__ They will need to promote maternal nutrition by providing access to nutritious foods, prenatal supplements, and nutrition education to support healthy pregnancies and fetal development.
+- __Foster Community-Based Maternal Care:__ There is a need to strengthen community-based maternal health services by training and empowering community health workers to provide essential maternal healthcare services and support to pregnant women in their communities.
+Implementing these simple recommendations can help improve maternal health outcomes, reduce maternal mortality rates, and ensure that every woman receives the care and support she needs during pregnancy and childbirth.
 
 
 
