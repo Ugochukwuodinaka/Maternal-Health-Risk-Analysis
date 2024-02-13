@@ -110,7 +110,21 @@ From the analysis, i made the Key Performance findings below:
 - __Implications for Maternal Healthcare:__ The distribution of high-risk levels across different age ranges underscores the importance of tailored and age-specific approaches to maternal healthcare. Healthcare providers should consider age as a crucial factor in assessing maternal health risks, providing prenatal care, and implementing preventive measures to mitigate potential complications.
 - __Need for Comprehensive Risk Assessment:__ While age is an important determinant of maternal health risks, it's essential to recognize that other factors such as pre-existing medical conditions, socio-economic status, lifestyle factors, and access to healthcare also play significant roles.
 
+- <img src="images/RiskLevel_SBP_%26_DBP_By_AgeRange_image.jpg" width="300">
+- **High Risk Level, SBP & DBP By Age Range:**
+- In this analysis,
 
+
+
+
+
+
+
+
+
+
+
+  
 - <img src="images/Avg_BodyTemp_HeartRate_%26_BS_By_AgeRange_image.jpg" width="350">
 - **Average Body Temperature, Heart Rate, and Blood Sugar By Age Range:**
 - In this analysis, the of average body temperature, heart rate, and blood sugar by age range provides valuable insights into the variations in health parameters across different age groups.
