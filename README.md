@@ -79,7 +79,11 @@ From the analysis, i made the Key Performance findings below:
 - The Average Diastolic Blood Pressure of Women in this analysis is __76 mmHg__.
 - The Average Blood Sugar of Women in this analysis is __9 mmol/L__.
 
-- <img src="images/Total_Revenue_By_Category.jpg" width="250">
-- **The Total Revenue By Product Category:**
-- In this analysis,
-
+- <img src="images/Total_No_of_Women_By_Risk_Level_image.jpg" width="250">
+- **The Total Number of Women By Risk Level:**
+- In this analysis, there is a dominance of the Low-Risk Category. The data shows that the majority of women in the sample are classified as low risk, accounting for 40.04% of the total. This dominance suggests that a significant portion of the population is considered to have a lower likelihood of experiencing adverse maternal outcomes. These women may have favorable health indicators, such as stable blood pressure, normal blood sugar levels, and overall good health.
+- Following the low-risk category, the mid-risk group comprises a substantial proportion of the sample, with 33.14% of women falling into this category. This indicates a notable presence of women who may have certain health factors or conditions that elevate their risk of experiencing maternal complications. 
+- While the high-risk category represents the smallest proportion of women in the sample at 26.82%, it remains a significant concern due to the heightened likelihood of adverse maternal outcomes among this population. Women classified as high risk may have underlying health conditions, advanced maternal age, or other factors that increase their susceptibility to complications during pregnancy, childbirth, or the postpartum period.
+  
+- __Implications for Maternal Healthcare:__ The distribution of women across different risk categories underscores the importance of risk assessment and personalized care in maternal healthcare settings. By accurately identifying women at varying levels of risk, healthcare providers can tailor interventions, monitoring, and support to meet the specific needs of each group. This approach can help mitigate potential risks, improve maternal health outcomes, and enhance the overall quality of care provided to pregnant and postpartum women.
+- __Need for Targeted Interventions:__ The disparities in risk distribution highlight the heterogeneity of maternal health risks within the population under study. Factors such as age, pre-existing health conditions, socio-economic status, and access to healthcare services may contribute to variations in risk levels among women. Targeted interventions and public health initiatives are needed to address these disparities and ensure equitable access to maternal healthcare resources and support.
