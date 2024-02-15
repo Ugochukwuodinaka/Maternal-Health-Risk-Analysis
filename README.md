@@ -77,7 +77,7 @@ Here's is a detailed information of the columns we have in this dataset to aid a
 No data modelling was required since we need just a table for the analysis.
 
 ## Visualization in Power BI:
-#### Report Image
+### Report Image
 ![](images/Maternal_Health_Risk_Analysis_Dashboard.jpg)
 
 ### Project Analysis:
