@@ -43,6 +43,15 @@ Here's is a detailed information of the columns we have in this dataset to aid a
 - __HeartRate:__ Heart rate refers to the number of heartbeats per minute (bpm). It is an indicator of cardiovascular health and can vary depending on factors such as age, fitness level, and activity level. Resting heart rate typically falls within a range of 60 to 100 beats per minute for adults.
 - __RiskLevel:__ Risk level categorizes individuals into different risk groups based on predefined criteria related to maternal health risks. It is a qualitative variable indicating the likelihood of experiencing adverse maternal outcomes such as complications during pregnancy, childbirth, or postpartum. Risk levels can be determined based on various factors including medical history, demographic characteristics, and health indicators like blood pressure and blood sugar levels.
 
+
+### Skills Utilized
+1. Data Cleaning
+2. Data Visualiziation
+3. Descriptive Analytics
+4. Critical Thinking and Problem Solving
+5. Communication and Reporting
+
+
 ### Tools Used
 1. Power Query Editor
     - Was used to:
@@ -165,5 +174,6 @@ You can view and interact with this dashboard report on Maternal Health Risk Ana
 - __Foster Community-Based Maternal Care:__ There is a need to strengthen community-based maternal health services by training and empowering community health workers to provide essential maternal healthcare services and support to pregnant women in their communities.
 Implementing these simple recommendations can help improve maternal health outcomes, reduce maternal mortality rates, and ensure that every woman receives the care and support she needs during pregnancy and childbirth.
 
+## Thank You For Following Through!
 
 
