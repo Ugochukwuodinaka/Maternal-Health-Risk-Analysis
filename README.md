@@ -73,14 +73,25 @@ Here's is a detailed information of the columns we have in this dataset to aid a
 3. Made sure that all columns have no data error or null values, and that all coumns have the __100%__ Valid Mark.
 
 **Raw Data**
-- Below a screenshot of a part of the raw data in .csv file format. You can download the dataset [here](Maternal%20Health%20Risk%20Data%20Set.csv).
+- Below a screenshot of a part of the raw data in .csv file format.
 
+Raw Data  Screenshot                                                          |                                
+:----------------------------------------------------------------------------:|
 ![](images/Raw_Data_Sceenshot_image.png)
 
-**Final Power Query Editor screenshot**
-- Below is a screenshot of a part of the cleaned data in power query editor. You can access the full Power BI project document [here](https://github.com/Ugochukwuodinaka/Maternal-Health-Risk-Analysis/blob/main/MATERNAL%20HEALTH%20RISK%20ANALYSIS.pbix).
+You can preview the dataset [here](Maternal%20Health%20Risk%20Data%20Set.csv).
 
+
+
+**Final Power Query Editor screenshot**
+- Below is a screenshot of a part of the cleaned data in power query editor. 
+
+Power Query Editor Screenshot                                                 |                                
+:----------------------------------------------------------------------------:|
 ![](images/Power_Query_Screenshot_image.png)
+
+You can access the complete Power BI project document [here](MATERNAL%20HEALTH%20RISK%20ANALYSIS.pbix).
+
 
 ## Data Modelling
 No data modelling was required since we need just a table for the analysis.
