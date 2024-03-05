@@ -94,7 +94,7 @@ You can access the complete Power BI project document [here](MATERNAL%20HEALTH%2
 
 
 ## Data Modelling
-No data modelling was required since we need just a table for the analysis.
+No data modelling was required since we needed just a table for the analysis.
 
 ## Visualization in Power BI:
 ### Report Image
