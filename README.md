@@ -91,7 +91,7 @@ You can preview the dataset [here](Maternal%20Health%20Risk%20Data%20Set.csv).
 
 Sql Query Screenshot                                                               |                       
 :---------------------------------------------------------------------------------:|
-![](images/MS_Sql_Server_Screenshot.png)   
+![](images/MySQL%20Query%20Screenshort.png)   
 
 You can preview the MS Sql Server query file [here](FoodAppBusiness_Query.sql)
 <br />
