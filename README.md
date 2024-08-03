@@ -57,7 +57,7 @@ Here's is a detailed information of the columns we have in this dataset to aid a
 <br />
 
 ### Tools Used
-1. MySQLr
+1. MySQL
     - Was used to:
         1. Extract,
         2. Clean,
@@ -78,7 +78,7 @@ Here's is a detailed information of the columns we have in this dataset to aid a
 4. Made sure that all the columns are of the right column types.
 
 **Raw Data**
-- Below a screenshot of a part of the raw data in .csv file format.
+- Below is a screenshot of a part of the raw data in .csv file format.
 
 Raw Data  Screenshot                                                          |                                
 :----------------------------------------------------------------------------:|
@@ -95,7 +95,7 @@ Sql Query Screenshot                                                            
 :---------------------------------------------------------------------------------:|
 ![](images/MySQL%20Query%20Screenshort.png)   
 
-You can preview the MS Sql Server query file [here](maternal_health_risk_data.sql)
+You can preview the MySQL query file [here](maternal_health_risk_data.sql)
 <br />
 <br />
 
