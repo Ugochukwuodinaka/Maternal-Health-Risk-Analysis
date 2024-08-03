@@ -93,7 +93,7 @@ Sql Query Screenshot                                                            
 :---------------------------------------------------------------------------------:|
 ![](images/MySQL%20Query%20Screenshort.png)   
 
-You can preview the MS Sql Server query file [here](FoodAppBusiness_Query.sql)
+You can preview the MS Sql Server query file [here](maternal_health_risk_data.sql)
 <br />
 <br />
 
