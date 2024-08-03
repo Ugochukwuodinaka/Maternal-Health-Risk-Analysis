@@ -19,8 +19,8 @@ Maternal health is a very important part of the public health of a society which
 ### Objectives:
 - __Risk Distribution Assessment:__ Get an overview of the distribution of the risks to maternal health among women by viewing the total number of women categorized by risk levels.
 - __Age-specific risk analysis:__ The relationship in this case study is between age and maternal health risks, understood through the different levels of risk broken down by various age brackets.
-= __Health parameters by risk level and age groups:__ The health parameters, such as SBP, DBP, Temp, HR, and BS values, have to be analyzed across the range from the lowest to the highest of patients falling under different age groups.
-- __ Average health parameters according to age:__ The average for SBP, DBP, temperature of the body, and heart rate needs to be calculated for different ranges of ages. This will help in getting a trend with aging in maternal health parameters.
+- __Health parameters by risk level and age groups:__ The health parameters, such as SBP, DBP, Temp, HR, and BS values, have to be analyzed across the range from the lowest to the highest of patients falling under different age groups.
+- __Average health parameters according to age:__ The average for SBP, DBP, temperature of the body, and heart rate needs to be calculated for different ranges of ages. This will help in getting a trend with aging in maternal health parameters.
 
 
 ### Expected Outcomes:
