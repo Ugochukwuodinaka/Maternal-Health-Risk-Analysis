@@ -69,10 +69,11 @@ Here's is a detailed information of the columns we have in this dataset to aid a
         4. Tooltips
 <br />
 
-### Data Cleaning, Transformation and Loading using the Power Query Editor:
-1. I transformed all column data types to the right data types.
-2. I added a new column __"Age Band"__ and filled it up with the data extraced from the __"Age"__ column which was grouped into _"Under Twenties, Twenties, Thirties, Forties, Fifties, and Sixties"_ using the "If function".
-3. Made sure that all columns have no data error or null values, and that all coumns have the __100%__ Valid Mark.
+### Data Cleaning and Transformation in MySQL:
+1. Checked to confirm all column datatypes.
+2. Added a new column __"AgeBand"__ which extracts its information from the __"Age"__ column and groups them into: _Under Twenties, Twenties, Thirties, Forties, Fifties, and Sixties_ using the _"Update"_ and _"Set query"_.
+3. Re-ordered all columns appropriately.
+4. Made sure that all the columns are of the right column types.
 
 **Raw Data**
 - Below a screenshot of a part of the raw data in .csv file format.
@@ -85,14 +86,14 @@ You can preview the dataset [here](Maternal%20Health%20Risk%20Data%20Set.csv).
 <br />
 <br />
 
-**Final Power Query Editor screenshot**
-- Below is a screenshot of a part of the cleaned data in power query editor. 
+**Final MySQL screenshot**
+- Below is a screenshot of a part of the cleaned data in MySQL. 
 
-Power Query Editor Screenshot                                                 |                                
-:----------------------------------------------------------------------------:|
-![](images/Power_Query_Screenshot_image.png)
+Sql Query Screenshot                                                               |                       
+:---------------------------------------------------------------------------------:|
+![](images/MS_Sql_Server_Screenshot.png)   
 
-You can access the complete Power BI project document [here](MATERNAL%20HEALTH%20RISK%20ANALYSIS.pbix).
+You can preview the MS Sql Server query file [here](FoodAppBusiness_Query.sql)
 <br />
 <br />
 
