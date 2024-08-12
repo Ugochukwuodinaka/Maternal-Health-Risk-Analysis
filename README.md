@@ -59,9 +59,8 @@ Here's is a detailed information of the columns we have in this dataset to aid a
 ### Tools Used
 1. MySQL
     - Was used to:
-        1. Extract,
-        2. Clean,
-        3. and Transform the datasets for this analysis.
+        1. Clean
+        2. Transform the datasets for this analysis.
            
 2. Power BI (Was used to create reports and dashboard for this analysis)
     - The following Power BI Features were incorporated:
