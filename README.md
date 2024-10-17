@@ -104,7 +104,7 @@ No data modelling was required since we needed just a table for the analysis.
 <br />
 
 ## Visualization in Power BI:
-### Report Image
+### Analysis Dashboard
 ![](images/Maternal_Health_Risk_Analysis_Dashboard.jpg)
 <br />
 <br />
@@ -190,8 +190,8 @@ From the analysis, i made the below key findings:
 <br />
 <br />
 
-## Visuals in Power BI Report:
-You can view and interact with this dashboard report on Maternal Health Risk Analysis [here](https://app.powerbi.com/view?r=eyJrIjoiZmE1YmVhNjUtNjgzOC00OTBkLTlmYTQtZmUxODgzNzJjNGYwIiwidCI6IjdlYzI5NjU5LTNjZjItNGYzZi1hYmIzLWE3MjJlZGY3ZmYyZCJ9).
+## Power BI Dashboard:
+You can view and interact with this dashboard on Maternal Health Risk Analysis [here](https://app.powerbi.com/view?r=eyJrIjoiZmE1YmVhNjUtNjgzOC00OTBkLTlmYTQtZmUxODgzNzJjNGYwIiwidCI6IjdlYzI5NjU5LTNjZjItNGYzZi1hYmIzLWE3MjJlZGY3ZmYyZCJ9).
 <br />
 <br />
 <br />
